@@ -6,5 +6,5 @@ Dataset- http://bit.ly/w-data
 
 ## TASK-2
 Prediction using Unsupervised Machine Learning\
-From the given ‘Iris’ dataset, predict the optimum number of clusters.\
+From the given ‘Iris’ dataset, predict the optimum number of clusters and represent it visually.\
 Dataset : https://bit.ly/3kXTdox
